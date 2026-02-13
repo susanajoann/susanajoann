@@ -1,0 +1,10 @@
+{
+  "Alice": {
+    "salt": "EQnzLoXACtoQAHT6ZUziAA==",
+    "verifier": "soYo9aWTsCTiweyhtd+HFA=="
+  },
+  "Bob": {
+    "salt": "7xxId6y+fvvsCgoMmoHs2A==",
+    "verifier": "WBNbepovhrmv5Z0XU6cdeg=="
+  }
+}
