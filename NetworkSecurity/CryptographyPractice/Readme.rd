@@ -7,7 +7,5 @@ python fcrypt.py -e destination_public_key_filename sender_private_key_filename 
 For decryption and signature verification the command-line syntax is:
 python fcrypt.py -d destination_private_key_filename sender_public_key_filename ciphertext_file output_plaintext_file
 
-I also created a series of tests to ensure the functionality of the script. 
-
 Please keep in mind this was a school project and is not perfect by any means. I recieved feedback that tampering with 
 the IV is possible since it is not protected by the signature. 
