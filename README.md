@@ -1,8 +1,9 @@
 
- # Hi, I am...
+ # Hi, I'm Susana Noto (she/her) and I am
  
 * a recent grad from Northeastern University with a BS in Cybersecurity and Criminal Justice.
-* expanding my skills. I'm doing online learning courses, such as Red Team Leader's Digital Forensics course. 
+* expanding my skills. I'm doing online learning courses, such as Red Team Leader's Digital Forensics course.
+* working towards my CompTIA Security+ certificate.
 * playing with different cybersecurity tools to learn more by doing! I just experimented with TPot!
 * reading books with my two book clubs and playing Stardew Valley. 
 
@@ -12,7 +13,7 @@ I started stage managing Shakespeare productions and finally found my place in t
 
 
 ## 🔧 Technologies and Tools
-![](https://img.shields.io/static/v1?label=Code&message=JavaScript&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=HTML&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=CSS&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Node.js&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=React&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Redux&color=brightgreen) ![](https://img.shields.io/badge/code-Jenkins-brightgreen) ![](https://img.shields.io/badge/code-Cypress-brightgreen) ![](https://img.shields.io/badge/code-Jest-brightgreen) ![](https://img.shields.io/badge/code-Storybook-brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Express&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Sequelize&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=PostgreSql&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=MaterialUI&color=brightgreen)  ![](https://img.shields.io/static/v1?label=Tools&message=Git/GitHub&color=brightgreen)  
+![](https://img.shields.io/static/v1?label=Certificate&message=ISC2-CC&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Java&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=LINQ&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=AWS&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=CrowdStrike&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Lacework&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Jira&color=brightgreen)  
 
 
 
@@ -21,16 +22,11 @@ I started stage managing Shakespeare productions and finally found my place in t
 
 ## Want to know more? 
 
-#### Head to my [portfolio](https://heather-berardo-noto.netlify.app/](https://susananoto.my.canva.site/) for some demos 
+#### Check out my [Resume](https://drive.google.com/file/d/1QnuXM1_FtlZWxPnCjrOaGOtzFXzsgm1j/view)
+#### Head to my [Portfolio](https://susananoto.my.canva.site/) for my projects!
 #### Visit my [LinkedIn](https://www.linkedin.com/in/susana-noto/)
 #### Contact me at susanajoann@gmail.com ✉️
- 
-<a
-        href=[https://drive.google.com/file/d/1QnuXM1_FtlZWxPnCjrOaGOtzFXzsgm1j/view?usp=sharing]
-        aria-label="resume"
-        target="blank"
-        rel="noopener"
-        >Check out my Resume! <a/>
+
 
 
 
