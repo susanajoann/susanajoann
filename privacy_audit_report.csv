@@ -1,0 +1,277 @@
+URL,Status,Findings,Registrar,Has Privacy Link,Has TOS Link,Has Cookie Banner,Has DNS Link,Has DPO Contact,CCPA/CPRA Pass,GDPR Pass,PIPEDA Pass,HIPAA Pass,COPPA Pass,VCDPA Pass,Global Pass,Audit Timestamp
+https://www.google.com,PASS,"CCPA/CPRA (California), Global/General",MarkMonitor Inc.,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.facebook.com,HTTP_ERROR,Status: 400,"RegistrarSafe, LLC",,,,,,,,,,,,,2026-04-03 18:40
+https://www.twitter.com,PASS,Global/General,"CSC Corporate Domains, Inc.",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.instagram.com,PASS,HIPAA (Healthcare),"RegistrarSafe, LLC",False,False,False,False,False,False,False,False,True,False,False,False,2026-04-03 18:40
+https://www.tiktok.com,FLAG,No specific jurisdictional markers,Gandi SAS,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.linkedin.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.reddit.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:40
+https://www.apple.com,PASS,Global/General,Nom-iq Ltd. dba COM LAUDE,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.microsoft.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.amazon.com,HTTP_ERROR,Status: 202,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:40
+https://www.netflix.com,PASS,"CCPA/CPRA (California), HIPAA (Healthcare), Global/General",MarkMonitor Inc.,True,True,True,True,False,True,False,False,True,False,False,True,2026-04-03 18:40
+https://www.spotify.com,FLAG,No specific jurisdictional markers,Abion AB,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.discord.com,PASS,Global/General,"Cloudflare, Inc.",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.snapchat.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.pinterest.com,PASS,HIPAA (Healthcare),MarkMonitor Inc.,False,False,False,False,False,False,False,False,True,False,False,False,2026-04-03 18:40
+https://www.webmd.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.mayoclinic.org,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:40
+https://www.cvs.com,PASS,"CCPA/CPRA (California), HIPAA (Healthcare), Global/General",Unknown,True,True,False,True,False,True,False,False,True,False,False,True,2026-04-03 18:40
+https://www.walgreens.com,PASS,"CCPA/CPRA (California), HIPAA (Healthcare), Global/General",Unknown,True,True,False,False,False,True,False,False,True,False,False,True,2026-04-03 18:40
+https://www.unitedhealthgroup.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.cigna.com,PASS,Global/General,Unknown,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.anthem.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.humana.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.kaiserpermanente.org,PASS,"HIPAA (Healthcare), Global/General",Unknown,True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:40
+https://www.clevelandclinic.org,PASS,"HIPAA (Healthcare), Global/General",Unknown,True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:40
+https://www.chase.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.bankofamerica.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.wellsfargo.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.citibank.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.capitalone.com,PASS,Global/General,"GoDaddy Corporate Domains, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.americanexpress.com,PASS,"CCPA/CPRA (California), HIPAA (Healthcare), Global/General","CSC Corporate Domains, Inc.",True,True,False,True,False,True,False,False,True,False,False,True,2026-04-03 18:40
+https://www.paypal.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.coinbase.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:40
+https://www.robinhood.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.fidelity.com,PASS,Global/General,"CSC Corporate Domains, Inc.",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.walmart.com,PASS,Global/General,"CSC Corporate Domains, Inc.",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.target.com,FLAG,No specific jurisdictional markers,"GoDaddy Corporate Domains, LLC",True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.ebay.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:40
+https://www.etsy.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:40
+https://www.bestbuy.com,TIMEOUT,Server unresponsive,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:40
+https://www.homedepot.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:40
+https://www.lowes.com,FLAG,No specific jurisdictional markers,"CSC Corporate Domains, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.costco.com,PASS,"HIPAA (Healthcare), Global/General","CSC Corporate Domains, Inc.",True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:40
+https://www.macys.com,WAF_BLOCK,ACCESS DENIED (403),"Network Solutions, LLC",,,,,,,,,,,,,2026-04-03 18:40
+https://www.nike.com,PASS,"CCPA/CPRA (California), Global/General",MarkMonitor Inc.,True,True,True,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.coursera.org,PASS,"CCPA/CPRA (California), Global/General","GoDaddy.com, LLC",True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.udemy.com,WAF_BLOCK,ACCESS DENIED (403),SafeNames Ltd.,,,,,,,,,,,,,2026-04-03 18:40
+https://www.khanacademy.org,FLAG,No specific jurisdictional markers,"GoDaddy.com, LLC",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.duolingo.com,FLAG,No specific jurisdictional markers,"Amazon Registrar, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.chegg.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:40
+https://www.collegeboard.org,FLAG,No specific jurisdictional markers,SafeNames Ltd.,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:40
+https://www.pearson.com,PASS,"CCPA/CPRA (California), Global/General","CSC Corporate Domains, Inc.",True,True,True,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.scholastic.com,PASS,"CCPA/CPRA (California), Global/General",MarkMonitor Inc.,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:40
+https://www.nytimes.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.washingtonpost.com,TIMEOUT,Server unresponsive,"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:41
+https://www.cnn.com,PASS,Global/General,Nom-iq Ltd. dba COM LAUDE,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.foxnews.com,PASS,Global/General,"GoDaddy Corporate Domains, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.bbc.com,PASS,"CCPA/CPRA (California), Global/General",Tucows Domains Inc.,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.theguardian.com,PASS,Global/General,"GoDaddy.com, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.forbes.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.bloomberg.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:41
+https://www.usa.gov,FLAG,No specific jurisdictional markers,get.gov,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.irs.gov,FLAG,No specific jurisdictional markers,get.gov,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.ssa.gov,WAF_BLOCK,ACCESS DENIED (403),get.gov,,,,,,,,,,,,,2026-04-03 18:41
+https://www.medicare.gov,FLAG,No specific jurisdictional markers,get.gov,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.ftc.gov,FLAG,No specific jurisdictional markers,get.gov,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.hhs.gov,WAF_BLOCK,ACCESS DENIED (403),get.gov,,,,,,,,,,,,,2026-04-03 18:41
+https://www.adobe.com,TIMEOUT,Server unresponsive,Nom-iq Ltd. dba COM LAUDE,,,,,,,,,,,,,2026-04-03 18:41
+https://www.salesforce.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.oracle.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:41
+https://www.ibm.com,FLAG,No specific jurisdictional markers,"CSC Corporate Domains, Inc.",False,False,True,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.intel.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:41
+https://www.nvidia.com,PASS,Global/General,SafeNames Ltd.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.qualcomm.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.cisco.com,PASS,"CCPA/CPRA (California), Global/General",MarkMonitor Inc.,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.vmware.com,FLAG,No specific jurisdictional markers,"CSC Corporate Domains, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.dropbox.com,PASS,HIPAA (Healthcare),MarkMonitor Inc.,False,True,False,False,False,False,False,False,True,False,False,False,2026-04-03 18:41
+https://www.box.com,PASS,"CCPA/CPRA (California), HIPAA (Healthcare), Global/General",MarkMonitor Inc.,True,True,False,True,False,True,False,False,True,False,False,True,2026-04-03 18:41
+https://www.slack.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,True,False,True,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.zoom.us,PASS,Global/General,Unknown,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.atlassian.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.github.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.gitlab.com,PASS,Global/General,Gandi SAS,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.shopify.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.squarespace.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.wix.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.godaddy.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:41
+https://www.cloudflare.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.twilio.com,PASS,Global/General,Unknown,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.stripe.com,FLAG,No specific jurisdictional markers,Unknown,True,False,True,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.sendgrid.com,PASS,Global/General,Unknown,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.hubspot.com,FLAG,No specific jurisdictional markers,Unknown,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.tumblr.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.quora.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:41
+https://www.medium.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:41
+https://www.substack.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.match.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:41
+https://www.tinder.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.bumble.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.hinge.co,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.meetup.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.nextdoor.com,PASS,HIPAA (Healthcare),Unknown,True,False,False,False,False,False,False,False,True,False,False,False,2026-04-03 18:41
+https://www.twitch.tv,FLAG,No specific jurisdictional markers,"MarkMonitor, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.deviantart.com,FLAG,No specific jurisdictional markers,"GoDaddy.com, LLC",True,False,True,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.hulu.com,PASS,"CCPA/CPRA (California), Global/General","CSC Corporate Domains, Inc.",True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.disneyplus.com,PASS,"CCPA/CPRA (California), Global/General","CSC Corporate Domains, Inc.",True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.hbomax.com,PASS,"CCPA/CPRA (California), Global/General",MarkMonitor Inc.,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.peacocktv.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.paramountplus.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.crunchyroll.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:41
+https://www.pandora.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.soundcloud.com,FLAG,No specific jurisdictional markers,Gandi SAS,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.deezer.com,FLAG,No specific jurisdictional markers,Gandi SAS,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.tidal.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:41
+https://www.vimeo.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.dailymotion.com,FLAG,No specific jurisdictional markers,Nameshield SAS,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.imdb.com,HTTP_ERROR,Status: 202,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:41
+https://www.rottentomatoes.com,PASS,"HIPAA (Healthcare), Global/General",MarkMonitor Inc.,True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:41
+https://www.ea.com,PASS,Global/General,"CSC Corporate Domains, Inc.",True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.ubisoft.com,FLAG,No specific jurisdictional markers,Gandi SAS,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.activision.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.blizzard.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.epicgames.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:41
+https://www.steampowered.com,FLAG,No specific jurisdictional markers,Unknown,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.roblox.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.minecraft.net,FLAG,No specific jurisdictional markers,Unknown,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.nintendo.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.playstation.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.xbox.com,PASS,Global/General,Unknown,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.ign.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.schwab.com,FLAG,No specific jurisdictional markers,Unknown,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.vanguard.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,True,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.tdameritrade.com,FLAG,No specific jurisdictional markers,Unknown,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.etrade.com,FLAG,No specific jurisdictional markers,Unknown,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:41
+https://www.sofi.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:41
+https://www.nerdwallet.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.creditkarma.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.experian.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:41
+https://www.equifax.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:41
+https://www.transunion.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:41
+https://www.binance.com,HTTP_ERROR,Status: 202,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:41
+https://www.kraken.com,PASS,CCPA/CPRA (California),"NameCheap, Inc.",True,False,False,True,False,True,False,False,False,False,False,False,2026-04-03 18:42
+https://www.gemini.com,PASS,Global/General,Gandi SAS,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.geico.com,PASS,Global/General,Key-Systems GmbH,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.progressive.com,PASS,CCPA/CPRA (California),"CSC Corporate Domains, Inc.",True,False,False,True,False,True,False,False,False,False,False,False,2026-04-03 18:42
+https://www.statefarm.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.allstate.com,FLAG,No specific jurisdictional markers,"GoDaddy Corporate Domains, LLC",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.lemonade.com,PASS,Global/General,"Cloudflare, Inc.",True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.pfizer.com,PASS,Global/General,Nom-iq Ltd. dba COM LAUDE,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.johnsonandjohnson.com,DNS_ERROR,Domain could not be resolved,Key-Systems GmbH,,,,,,,,,,,,,2026-04-03 18:42
+https://www.abbvie.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:42
+https://www.merck.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.roche.com,FLAG,No specific jurisdictional markers,SafeNames Ltd.,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.novartis.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.medlineplus.gov,FLAG,No specific jurisdictional markers,get.gov,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.healthline.com,PASS,Global/General,"GoDaddy Corporate Domains, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.everlywell.com,PASS,Global/General,"GoDaddy.com, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.teladoc.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.zocdoc.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:42
+https://www.goodrx.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:42
+https://www.hims.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:42
+https://www.ro.co,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.gap.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.hm.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:42
+https://www.zara.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.uniqlo.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.forever21.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.nordstrom.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.sephora.com,FLAG,No specific jurisdictional markers,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.ulta.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.wayfair.com,PASS,HIPAA (Healthcare),Unknown,False,False,False,False,False,False,False,False,True,False,False,False,2026-04-03 18:42
+https://www.ikea.com,FLAG,No specific jurisdictional markers,Unknown,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.chewy.com,HTTP_ERROR,Status: 429,Unknown,,,,,,,,,,,,,2026-04-03 18:42
+https://www.petsmart.com,PASS,"HIPAA (Healthcare), Global/General",Unknown,True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:42
+https://www.doordash.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:42
+https://www.ubereats.com,PASS,"CCPA/CPRA (California), HIPAA (Healthcare), Global/General",MarkMonitor Inc.,True,True,True,True,False,True,False,False,True,False,False,True,2026-04-03 18:42
+https://www.grubhub.com,FLAG,No specific jurisdictional markers,"GoDaddy Corporate Domains, LLC",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.instacart.com,PASS,Global/General,"Amazon Registrar, Inc.",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.dominos.com,PASS,"CCPA/CPRA (California), Global/General",MarkMonitor Inc.,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.mcdonalds.com,PASS,"CCPA/CPRA (California), Global/General","CSC Corporate Domains, Inc.",True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.starbucks.com,PASS,"CCPA/CPRA (California), Global/General","CSC Corporate Domains, Inc.",True,True,True,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.airbnb.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.booking.com,HTTP_ERROR,Status: 202,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:42
+https://www.expedia.com,HTTP_ERROR,Status: 429,"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:42
+https://www.tripadvisor.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:42
+https://www.hotels.com,HTTP_ERROR,Status: 429,"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:42
+https://www.marriott.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:42
+https://www.hilton.com,TIMEOUT,Server unresponsive,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:42
+https://www.hyatt.com,WAF_BLOCK,ACCESS DENIED (403),"GoDaddy Corporate Domains, LLC",,,,,,,,,,,,,2026-04-03 18:42
+https://www.delta.com,FLAG,No specific jurisdictional markers,Corsearch Domains LLC,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.united.com,TIMEOUT,Server unresponsive,"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:42
+https://www.southwest.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.americanairlines.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:42
+https://www.kayak.com,PASS,"HIPAA (Healthcare), VCDPA (Virginia)",101domain GRS Limited,False,False,False,False,False,False,False,False,True,False,True,False,2026-04-03 18:42
+https://www.priceline.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:42
+https://www.vrbo.com,HTTP_ERROR,Status: 429,"GoDaddy Corporate Domains, LLC",,,,,,,,,,,,,2026-04-03 18:42
+https://www.carnival.com,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.ed.gov,PASS,Global/General,get.gov,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.pbs.org,PASS,"HIPAA (Healthcare), Global/General","CSC Corporate Domains, Inc.",True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:42
+https://www.nationalgeographic.com,PASS,"CCPA/CPRA (California), Global/General","CSC Corporate Domains, Inc.",True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.brainpop.com,FLAG,No specific jurisdictional markers,"Network Solutions, LLC",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.abcmouse.com,FLAG,No specific jurisdictional markers,101domain GRS Limited,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.ixl.com,PASS,Global/General,101domain GRS Limited,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.prodigy.com,PASS,Global/General,"Amazon Registrar, Inc.",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.coolmathgames.com,PASS,Global/General,"GoDaddy.com, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.funbrain.com,FLAG,No specific jurisdictional markers,"Amazon Registrar, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.starfall.com,PASS,Global/General,"GoDaddy.com, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.newsela.com,PASS,Global/General,"Amazon Registrar, Inc.",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.commonlit.org,PASS,Global/General,Unknown,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.reuters.com,PASS,"HIPAA (Healthcare), Global/General",Unknown,True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:42
+https://www.apnews.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.usatoday.com,PASS,"HIPAA (Healthcare), Global/General",Unknown,True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:42
+https://www.nbcnews.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.abcnews.go.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.cbsnews.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.msnbc.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.vice.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.vox.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.buzzfeed.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.huffpost.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.politico.com,WAF_BLOCK,ACCESS DENIED (403),Unknown,,,,,,,,,,,,,2026-04-03 18:42
+https://www.theatlantic.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.wired.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.techcrunch.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.theverge.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.engadget.com,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:42
+https://www.cnet.com,PASS,"CCPA/CPRA (California), Global/General",Unknown,True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.pcmag.com,PASS,"CCPA/CPRA (California), Global/General","CSC Corporate Domains, Inc.",True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:42
+https://www.whitehouse.gov,FLAG,No specific jurisdictional markers,get.gov,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.congress.gov,WAF_BLOCK,ACCESS DENIED (403),get.gov,,,,,,,,,,,,,2026-04-03 18:42
+https://www.supremecourt.gov,FLAG,No specific jurisdictional markers,get.gov,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:42
+https://www.cdc.gov,FLAG,No specific jurisdictional markers,get.gov,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.fda.gov,FLAG,No specific jurisdictional markers,get.gov,False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.dhs.gov,PASS,HIPAA (Healthcare),get.gov,True,False,False,False,False,False,False,False,True,False,False,False,2026-04-03 18:43
+https://www.doj.gov,DNS_ERROR,Domain could not be resolved,get.gov,,,,,,,,,,,,,2026-04-03 18:43
+https://www.sec.gov,WAF_BLOCK,ACCESS DENIED (403),get.gov,,,,,,,,,,,,,2026-04-03 18:43
+https://www.federalreserve.gov,PASS,Global/General,get.gov,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.census.gov,PASS,Global/General,get.gov,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.state.gov,PASS,Global/General,get.gov,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.defense.gov,WAF_BLOCK,ACCESS DENIED (403),get.gov,,,,,,,,,,,,,2026-04-03 18:43
+https://www.redcross.org,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.unicef.org,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:43
+https://www.who.int,PASS,Global/General,Unknown,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.amnesty.org,FLAG,No specific jurisdictional markers,"Network Solutions, LLC",True,False,True,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.aclu.org,FLAG,No specific jurisdictional markers,"Cloudflare, Inc.",True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.eff.org,PASS,Global/General,Gandi SAS,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.wikimedia.org,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.mozilla.org,FLAG,No specific jurisdictional markers,MarkMonitor Inc.,True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.goodwill.org,FLAG,No specific jurisdictional markers,"GoDaddy.com, LLC",False,False,True,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.salvationarmyusa.org,FLAG,No specific jurisdictional markers,"Network Solutions, LLC",True,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.habitat.org,PASS,Global/General,"Network Solutions, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.care.org,PASS,"HIPAA (Healthcare), Global/General","GoDaddy.com, LLC",True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:43
+https://www.tesla.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:43
+https://www.ford.com,TIMEOUT,Server unresponsive,"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:43
+https://www.gm.com,FLAG,No specific jurisdictional markers,"CSC Corporate Domains, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.toyota.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.honda.com,WAF_BLOCK,ACCESS DENIED (403),"Network Solutions, LLC",,,,,,,,,,,,,2026-04-03 18:43
+https://www.bmwusa.com,TIMEOUT,Server unresponsive,"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:43
+https://www.mercedes-benz.com,WAF_BLOCK,ACCESS DENIED (403),Key-Systems GmbH,,,,,,,,,,,,,2026-04-03 18:43
+https://www.vw.com,PASS,"CCPA/CPRA (California), Global/General","GoDaddy.com, LLC",True,True,False,True,False,True,False,False,False,False,False,True,2026-04-03 18:43
+https://www.carvana.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:43
+https://www.carmax.com,WAF_BLOCK,ACCESS DENIED (403),"CSC Corporate Domains, Inc.",,,,,,,,,,,,,2026-04-03 18:43
+https://www.autotrader.com,FLAG,No specific jurisdictional markers,"CSC Corporate Domains, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.cars.com,TIMEOUT,Server unresponsive,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:43
+https://www.indeed.com,HTTP_ERROR,Status: 401,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:43
+https://www.glassdoor.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:43
+https://www.ziprecruiter.com,PASS,Global/General,MarkMonitor Inc.,True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.monster.com,FLAG,No specific jurisdictional markers,"CSC Corporate Domains, Inc.",False,False,False,False,False,False,False,False,False,False,False,False,2026-04-03 18:43
+https://www.upwork.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:43
+https://www.fiverr.com,PASS,"CCPA/CPRA (California), HIPAA (Healthcare)","GoDaddy.com, LLC",True,False,False,True,False,True,False,False,True,False,False,False,2026-04-03 18:43
+https://www.toptal.com,PASS,Global/General,"DreamHost, LLC",True,True,False,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.workday.com,PASS,Global/General,MarkMonitor Inc.,True,True,True,False,False,False,False,False,False,False,False,True,2026-04-03 18:43
+https://www.adp.com,WAF_BLOCK,ACCESS DENIED (403),MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:43
+https://www.paychex.com,PASS,HIPAA (Healthcare),MarkMonitor Inc.,True,False,False,False,False,False,False,False,True,False,False,False,2026-04-03 18:43
+https://www.uber.com,HTTP_ERROR,Status: 406,MarkMonitor Inc.,,,,,,,,,,,,,2026-04-03 18:43
+https://www.lyft.com,PASS,"HIPAA (Healthcare), Global/General",MarkMonitor Inc.,True,True,False,False,False,False,False,False,True,False,False,True,2026-04-03 18:43
