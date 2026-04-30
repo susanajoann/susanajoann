@@ -24,6 +24,7 @@ I started stage managing Shakespeare productions and finally found my place in t
 
 #### Check out my [Resume](https://drive.google.com/file/d/1QnuXM1_FtlZWxPnCjrOaGOtzFXzsgm1j/view)
 #### Head to my [Portfolio](https://susananoto.my.canva.site/) for my projects!
+### Check out my current project [Scam Savvy](https://scamsavvy.vercel.app)
 #### Visit my [LinkedIn](https://www.linkedin.com/in/susana-noto/)
 #### Contact me at susanajoann@gmail.com ✉️
 
