@@ -1,10 +1,9 @@
 
  # Hi, I'm Susana Noto (she/her) and I am
  
+* an Associate of ISC2.
 * a recent grad from Northeastern University with a BS in Cybersecurity and Criminal Justice.
-* expanding my skills. I'm doing online learning courses, such as Red Team Leader's Digital Forensics course.
-* working towards my CompTIA Security+ certificate.
-* playing with different cybersecurity tools to learn more by doing! I just experimented with TPot!
+* creating a website to quiz different age ranges on scams and collect analytics on their results. 
 * reading books with my two book clubs and playing Stardew Valley. 
 
 ### Fun Fact About Me:
