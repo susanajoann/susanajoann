@@ -22,27 +22,12 @@ I started stage managing Shakespeare productions and finally found my place in t
 
 ## Want to know more? 
 
-#### Check out my [Resume](https://drive.google.com/file/d/1QnuXM1_FtlZWxPnCjrOaGOtzFXzsgm1j/view)
+#### Check out my [Resume](https://drive.google.com/file/d/1ADeL9WBg4CzdQ62-KEMVGt5sKHVmBznU/view?usp=drive_link)
 #### Head to my [Portfolio](https://susananoto.my.canva.site/) for my projects!
-#### Check out my current project [Scam Savvy](https://scamsavvy.vercel.app)
+#### Check out my current project [Scam Savvy](https://www.scam-savvy.org)
 #### Visit my [LinkedIn](https://www.linkedin.com/in/susana-noto/)
 #### Contact me at susanajoann@gmail.com ✉️
 
 
 
 
-
-<!--
-**heathernoto/heathernoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
