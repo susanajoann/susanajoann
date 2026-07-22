@@ -12,7 +12,7 @@ I started stage managing Shakespeare productions and finally found my place in t
 
 
 ## 🔧 Technologies and Tools
-![](https://img.shields.io/static/v1?label=Certificate&message=Associate-of-ISC2&color=brightgreen) ![]![](https://img.shields.io/static/v1?label=Certificate&message=ISC2-CC&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Java&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=LINQ&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=AWS&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=CrowdStrike&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Lacework&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Jira&color=brightgreen)  
+![](https://img.shields.io/static/v1?label=Certificate&message=Associate-of-ISC2&color=brightgreen) ![](https://img.shields.io/static/v1?label=Certificate&message=ISC2-CC&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Java&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=LINQ&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=AWS&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=CrowdStrike&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Lacework&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=Jira&color=brightgreen)  
 
 
 
