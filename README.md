@@ -11,7 +11,7 @@ I spent all of high school acting in school musicals, until I got a lead role an
 I started stage managing Shakespeare productions and finally found my place in theatre. 
 
 
-## 🔧 Technologies and Tools
+## 🔧 Technical Skills
 ![](https://img.shields.io/static/v1?label=Certificate&message=Associate-ISC2&color=blue) ![](https://img.shields.io/static/v1?label=Certificate&message=ISC2-CC&color=blue) ![](https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Java&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=React&color=brightgreen) ![](https://img.shields.io/static/v1?label=Tools&message=C&color=brightgreen) 
 
 
